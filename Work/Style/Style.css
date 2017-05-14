@@ -1,0 +1,27 @@
+div {
+  width: 600px;
+  background: rgb(224, 220, 220) center;
+  margin-left: 200px;
+  margin-top: 0;
+ }
+  h1 {
+    padding-left: 50px;
+    padding-top: 30px;
+  }
+  .box {
+    display: block;
+    margin: auto;
+    text-align: center;
+  }
+  h2 {
+    padding-left: 50px;
+  }
+  p {
+    padding-left: 70px;
+  }
+  ul {
+    padding-left: 80px;
+  }
+  a {
+    padding-left: 80px;
+  }
