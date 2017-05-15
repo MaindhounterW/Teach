@@ -1,27 +1,44 @@
-div {
-  width: 600px;
-  background: rgb(224, 220, 220) center;
-  margin-left: 200px;
-  margin-top: 0;
- }
-  h1 {
-    padding-left: 50px;
-    padding-top: 30px;
-  }
-  .box {
-    display: block;
-    margin: auto;
-    text-align: center;
-  }
-  h2 {
-    padding-left: 50px;
-  }
-  p {
-    padding-left: 70px;
-  }
-  ul {
-    padding-left: 80px;
-  }
-  a {
-    padding-left: 80px;
-  }
+    .form {
+          width: 600px;
+          background: rgb(224, 220, 220) center;
+          margin-left: 200px;
+          margin-top: 0;
+     }
+
+
+    .caption_h1 {
+          padding-left: 50px;
+          padding-top: 30px;
+    }
+
+
+    .image {
+          display: block;
+          margin: auto;
+          text-align: center;
+    }
+
+
+    .caption_h2 {
+          padding-left: 50px;
+    }
+
+
+    .text {
+          padding-left: 70px;
+    }
+
+
+    .list {
+        padding-left: 80px;
+    }
+
+
+    .link {
+          padding-left: 80px;
+    }
+
+
+    .fidback_story {
+          margin-bottom: 30px;
+    }
